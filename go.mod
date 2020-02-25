@@ -48,8 +48,9 @@ require (
 	google.golang.org/grpc v1.25.1 // indirect
 	gopkg.in/tomb.v2 v2.0.0-20161208151619-d5d1b5820637
 	gotest.tools v2.2.0+incompatible // indirect
-	k8s.io/api v0.17.3 // indirect
-	k8s.io/client-go v0.15.10
+	k8s.io/api v0.17.3
+	k8s.io/apimachinery v0.17.3
+	k8s.io/client-go v0.17.3
 	k8s.io/utils v0.0.0-20200124190032-861946025e34 // indirect
 	sigs.k8s.io/yaml v1.2.0 // indirect
 )
